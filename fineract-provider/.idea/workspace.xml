@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e869f16b-a0da-4de0-9d78-d464e5c614f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/core/data/ApiGlobalErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/core/data/ApiGlobalErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/api/RunreportsApiResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/api/RunreportsApiResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/service/ReadReportingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/service/ReadReportingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring/securityContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring/securityContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V112__mixreport_sql_support.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V112__mixreport_sql_support.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V322_1__scheduled_email_campaign.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V322_1__scheduled_email_campaign.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V322__sms_campaign.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V322__sms_campaign.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V325__add_is_staff_client_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V325__add_is_staff_client_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V336__sms_campaign_notification.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V336__sms_campaign_notification.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V345__reports_for_self_service_user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V345__reports_for_self_service_user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V349__client_transfer_details.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V349__client_transfer_details.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V352__interop_init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/core_db/V352__interop_init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/sample_data/barebones_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/sample_data/barebones_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/migrations/sample_data/load_sample_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/migrations/sample_data/load_sample_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fineract-provider" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fineract-provider" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fineract-provider" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fineract-provider" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1icDekDxq0KNcyICMwK7VK63fZk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fineract-provider" type="Remote">
+      <module name="fineract-provider" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e869f16b-a0da-4de0-9d78-d464e5c614f8" name="Default Changelist" comment="" />
+      <created>1602198084538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602198084538</updated>
+      <workItem from="1604382405030" duration="6924000" />
+      <workItem from="1604559663124" duration="1598000" />
+      <workItem from="1604563806580" duration="541000" />
+      <workItem from="1604715829679" duration="1144000" />
+      <workItem from="1604805205833" duration="1329000" />
+      <workItem from="1604821300820" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="798" y="104" width="324" height="574" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1602227063785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="798" y="104" width="324" height="574" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1920.1080@0.0.1920.1080" timestamp="1602227063785" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604382948709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604382948709" />
+    <state width="1878" height="487" key="GridCell.Tab.0.bottom" timestamp="1602330761522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761522" />
+    <state width="1878" height="487" key="GridCell.Tab.0.center" timestamp="1602330761520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761520" />
+    <state width="1878" height="487" key="GridCell.Tab.0.left" timestamp="1602330761519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761519" />
+    <state width="1878" height="487" key="GridCell.Tab.0.right" timestamp="1602330761521">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761521" />
+    <state width="1878" height="487" key="GridCell.Tab.1.bottom" timestamp="1602330761528">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761528" />
+    <state width="1878" height="487" key="GridCell.Tab.1.center" timestamp="1602330761524">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761524" />
+    <state width="1878" height="487" key="GridCell.Tab.1.left" timestamp="1602330761523">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761523" />
+    <state width="1878" height="487" key="GridCell.Tab.1.right" timestamp="1602330761525">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="487" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602330761525" />
+    <state x="555" y="267" key="RollbackChangesDialog" timestamp="1602228129462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="267" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602228129462" />
+    <state x="461" y="152" key="SettingsEditor" timestamp="1602339792108">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state x="461" y="152" key="SettingsEditor/0.23.1920.985@0.23.1920.985" timestamp="1602339792108" />
+    <state x="653" y="23" width="841" height="987" key="find.popup" timestamp="1604966191577">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="653" y="0" width="841" height="1080" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604388186814" />
+    <state x="250" y="135" width="1243" height="797" key="find.popup/0.23.1920.985@0.23.1920.985" timestamp="1602341512993" />
+    <state x="653" y="23" width="841" height="987" key="find.popup/0.23.1920.987@0.23.1920.987" timestamp="1604966191577" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/api/RunreportsApiResource.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/api/RunreportsApiResource.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/core/api/ApiParameterHelper.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/org/apache/fineract/infrastructure/dataqueries/api/RunreportsApiResource.java</url>
+          <line>70</line>
+          <properties field="context" class="org.apache.fineract.infrastructure.dataqueries.api.RunreportsApiResource" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
